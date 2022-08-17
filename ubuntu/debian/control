@@ -6,7 +6,7 @@ Build-Depends: cmake,
                doxygen,
                pkg-config,
                debhelper (>= 11),
-               libignition-cmake2-dev (>= 2.3.0) | libignition-cmake-dev (>= 2.3.0),
+               libignition-cmake2-dev (>= 2.13.0) | libignition-cmake-dev (>= 2.13.0),
                libignition-common4-core-dev,
                libignition-msgs8-dev,
                libignition-tools-dev,
@@ -39,7 +39,7 @@ Description: Gazebo fuel-tools classes and functions - Shared library
 Package: libignition-fuel-tools7-dev
 Architecture: any
 Section: libdevel
-Depends: libignition-cmake2-dev (>= 2.3.0) | libignition-cmake-dev (>= 2.3.0),
+Depends: libignition-cmake2-dev (>= 2.13.0) | libignition-cmake-dev (>= 2.13.0),
        libignition-common4-core-dev,
        libignition-msgs8-dev,
        libignition-tools-dev,
