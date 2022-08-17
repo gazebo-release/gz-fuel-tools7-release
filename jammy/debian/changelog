@@ -1,3 +1,9 @@
+ignition-fuel-tools7 (7.1.0-1~jammy) jammy; urgency=medium
+
+  * ignition-fuel-tools7 7.1.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 17 Aug 2022 09:34:40 -0700
+
 ignition-fuel-tools7 (7.0.0+osrf-1~jammy) jammy; urgency=medium
 
   * ignition-fuel-tools7 7.0.0+osrf-1 release
