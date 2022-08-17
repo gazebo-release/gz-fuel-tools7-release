@@ -61,7 +61,7 @@ Description: Gazebo fuel-tools classes and functions - Development files
  The package ships the Gazebo fuel development headers and libraries
 
 Package: libgz-fuel-tools7
-Depends: libignition-fuel-tools7, ${misc:Depends}
+Depends: libignition-fuel-tools7 (= ${binary:Version}), ${misc:Depends}
 Architecture: all
 Priority: optional
 Section: oldlibs
@@ -69,7 +69,7 @@ Description: transitional package
  It's recommended to use the gz packages going forward.
 
 Package: libgz-fuel-tools7-dev
-Depends: libignition-fuel-tools7-dev, ${misc:Depends}
+Depends: libignition-fuel-tools7-dev (= ${binary:Version}), ${misc:Depends}
 Architecture: all
 Priority: optional
 Section: oldlibs
