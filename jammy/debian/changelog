@@ -1,3 +1,9 @@
+ignition-fuel-tools7 (7.3.0-1~jammy) jammy; urgency=medium
+
+  * ignition-fuel-tools7 7.3.0-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Tue, 13 Jun 2023 22:54:12 -0500
+
 ignition-fuel-tools7 (7.2.2-1~jammy) jammy; urgency=medium
 
   * ignition-fuel-tools7 7.2.2-1 release
